@@ -1,3 +1,5 @@
+HELLO
+
 n, ans = input(), 0
 
 def factorial(n):
